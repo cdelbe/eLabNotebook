@@ -1,0 +1,11 @@
+author: Matabele
+core-version: >=5.1.8
+created: NaNNaNNaNNaNNaNNaNNaN
+dependents: 
+description: Widget and filter operator to create new tiddlers
+list: filter widget
+modified: 20200319161039056
+plugin-type: plugin
+title: $:/plugins/matabele/action-maketid
+type: application/json
+version: 0.0.2

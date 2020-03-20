@@ -1,0 +1,13 @@
+created: 20180729173917654
+creator: Charles Delbé
+modified: 20200308011221686
+modifier: Charles Delbé
+tags: $:/tags/@CD @:/tags/config
+title: $:/config/FileSystemPaths
+type: text/vnd.tiddlywiki
+
+[has[draft.of]addprefix[drafts/]]
+
+[prefix[$:/]removeprefix[$:/]addprefix[system/]]
+
+[!has[draft.of]]

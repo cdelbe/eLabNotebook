@@ -1,0 +1,8 @@
+created: 20200320153539744
+creator: Charles Delbé
+modified: 20200320153540966
+modifier: Charles Delbé
+title: $:/config/NewJournal/Text
+type: text/vnd.tiddlywiki
+
+[search:title[]search:text[foobar]]

@@ -1,0 +1,12 @@
+author: JeremyRuston
+core-version: >=5.0.0
+created: 20200320130209758
+dependents: 
+description: TiddlyWiki5 core
+list: readme
+modified: 20200320130209758
+plugin-priority: 0
+plugin-type: plugin
+title: $:/core
+type: application/json
+version: 5.1.22-prerelease
